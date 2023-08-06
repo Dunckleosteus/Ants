@@ -1,0 +1,13 @@
+[package]
+name = "bevy_slime"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.10.1"
+rand = "0.8.4"
+bevy_prototype_lyon = "0.8.0"
+bevy_framepace = "0.12"
+random_choice="0.3.2"
